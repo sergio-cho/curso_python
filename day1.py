@@ -1,0 +1,1 @@
+print('Tu cerveza se llama:\n\"' + input("¿Cual es tu signo zodiacal?")+" "+input("¿Cual es tu planeta favorito")+'\"')
