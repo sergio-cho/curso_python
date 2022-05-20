@@ -45,4 +45,5 @@ nombre = input("Tu nombre")
 for letra in nombre:
     if letra == 'r':
         break
+        con
     print(letra)
